@@ -1,0 +1,4 @@
+constnumbers = [1, 2, 3, 4];
+
+const sum = numbers.reduce((accumulator, currentValue) => {accumulator + currentValue; });
+console.log(sum);
